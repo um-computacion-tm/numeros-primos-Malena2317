@@ -1,10 +1,3 @@
-#def mifuncion(texto):
-#    print(texto)
-#print("chau")      
-#mifuncion("Hola como estas")
-#el programa primero llama a al funcion pero como en este caso esta mal idententado primero 
-# imprime chau y despues hola como estas 
-#para recorrer se debe utilizar while para saber si es un numero primo o no diviendo por diferentes numeros
 
 import unittest        
 
@@ -39,6 +32,4 @@ class Testprimos(unittest.TestCase):
 
 unittest.main()
 
-#no se modifican las reglas(test) solamente se modifica la funcion
-#para que funcionen todos los test 
 
